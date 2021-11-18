@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadAakash
-- 👀 I’m interested in Web Development, Data Analysts and in  Artificial Intelligence  
-- 🌱 I’m currently learning Web Development, Data Analyst and AI
-- 💞️ I’m looking to collaborate on Web, AI, Data Analyst
+- 👀 I’m interested in Web Development and in  Artificial Intelligence  
+- 🌱 I’m currently working as a MEAN Stack Developer
+- 💞️ I’m looking to collaborate on Web and AI
 - 📫 How to reach me at muhammadaakash249@gmail.com
 
 <!---
