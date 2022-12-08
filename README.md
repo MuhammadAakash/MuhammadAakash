@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [VisNext Software Solutions](https://www.visnext.com/)
 
-- 🌱 I’m currently practicing **Data Structures and Algorithms, React, Node**
+- 🌱 I’m currently practicing **Data Structures and Algorithms, React, and Node**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
