@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently practicing **Data Structures and Algorithms, React, and Node**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on any **Open Source Project**
 
 - 💬 Ask me about **Angular, Ionic, React**
 
