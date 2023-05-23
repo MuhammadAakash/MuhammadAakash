@@ -47,7 +47,7 @@
 ## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect ...***
 
 <p align="center">
-	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
+	<a href="https://github.com/MuhammadAakash"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/mohammad-aakash-7559aa1b5"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="70" alt="LinkedIn"/></a>
 	<a href="https://www.leetcode.com/maakash249"><img src="https://img.icons8.com/?size=50&id=rYBVqyU1tdKG&format=png" width="70" alt="Leetcode"/></a>
   <a href="https://fb.com/aakashsial254"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" width="70" alt="Facebook"/></a>
