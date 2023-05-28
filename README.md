@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on any **Open Source Project**
 
-- 💬 Ask me about **Angular, Ionic, React**
+- 💬 Ask me about **Angular, React, React Native, Ionic,**
 
 - 📫 How to reach me **muhammadaakash249@gmail.com**
 
