@@ -34,12 +34,12 @@
 
 <p align="center">
   
-  <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
+  <a href="https://github.com/MuhammadAakash/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-stats.vercel.app/api?username=muhammadaakash&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true" alt="Mohammad Aakash's History"/></a>
 <br/><br/>
-  <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Mohammad Aakash's Github Stats"src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadaakash&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
+  <a href="https://github.com/MuhammadAakash/github-readme-stats"><img alt="Mohammad Aakash's Github Stats"src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadaakash&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
 <br/><br/>
-  <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Mohammad Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadaakash&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
+  <a href="https://github.com/MuhammadAakash/github-readme-stats"><img alt="Mohammad Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadaakash&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
   
   </p>
 
