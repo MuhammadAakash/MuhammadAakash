@@ -2,13 +2,13 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37">, Mohammad Aakash this side.</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
+<h3 align="center">A passionate Software developer from London, United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadaakash&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadaakash" /> </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About Me ...***
 
-- 🔭 I’m currently working in [VisNext Software Solutions](https://www.visnext.com/)
+🔭 I have approximately 3.5 years of experience in mobile app development using React Native and expertise in the MERN and MEAN stacks. I am currently seeking opportunities in React Native and full-stack development with these technologies. 
 
 - 🌱 I’m currently practicing **Data Structures and Algorithms, React, and Node**
 
